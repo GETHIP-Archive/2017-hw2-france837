@@ -1,0 +1,10 @@
+{
+      "firstName":"Cynthia",
+      "lastName":"France",
+      "age":14,
+      "picture":"http://kvno.org/img/CK2013/CindyWANG.png",
+      "nickNames": [
+        {"nick": "Cindy"},
+        {"nick": "Chindy"},
+      ]
+}
